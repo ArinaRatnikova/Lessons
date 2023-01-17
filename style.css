@@ -1,0 +1,8 @@
+.test {
+ width: 50%; height: 50%;
+          color: black;  background-color: #8FBC8F; 
+          text-align: justify; line-height: 19px; border: 0.5px solid red; margin: 10%; 
+  overflow-y: scroll;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif
+  font-size: 17px;
+}
